@@ -22,7 +22,7 @@ use Exception;
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 
- * @link       http://michaelseiler.net/ActiveDirectory
+ * @link       http://michaelseiler.net/projects-code/activedirectory/
  */
 class ActiveDirectory
 {
